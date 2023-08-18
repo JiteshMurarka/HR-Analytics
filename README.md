@@ -1,1 +1,1 @@
-# HR-Analytics
+Developed an interactive Power BI dashboard showcasing employee attrition trends across various departments and fields within the company. Utilized data visualization to illustrate the correlation between attrition rates and different organizational factors.
